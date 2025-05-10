@@ -2,7 +2,7 @@
 
 This repository includes the data and python implementation for the paper "JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation." (Accepted by the 34rd USENIX Security Symposium 2025).
 
-[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2502.07557) [![license](https://img.shields.io/github/license/NISPlab/JBSHield)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/usenix-paper-8f1d05.svg)](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-shenyi) [![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2502.07557) [![license](https://img.shields.io/github/license/NISPlab/JBSHield)](https://opensource.org/licenses/MIT)
 
 ![available](./figs/usenixbadges-available.png)![functional](./figs/usenixbadges-functional.png)![reproduced](./figs/usenixbadges-reproduced.png)
 
